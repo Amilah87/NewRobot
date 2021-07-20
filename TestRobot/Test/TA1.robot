@@ -5,6 +5,18 @@ Library    SeleniumLibrary
 MyFirstTest
     Log    AmilaTest
     
+MySecondTest
+    Log    I am inside
+    
+MyThirdTest
+    Log    I am inside 3rd time
+    
+MyfourthTest
+    Log    I am inside 4th time
+    
+MyfifthTest
+    Log    I am inside 3th time
+    
 
 FirstSeleniumT
     Open Browser    ${URL}    chrome
@@ -26,14 +38,3 @@ LoginKw1
     Click Button    xpath=//button[@type='submit']
     Sleep    5
     
-MySecondTest
-    Log    I am inside
-    
-MyThirdTest
-    Log    I am inside 3rd time
-    
-MyfourthTest
-    Log    I am inside 4th time
-    
-MyfifthTest
-    Log    I am inside 3th time

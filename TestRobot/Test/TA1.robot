@@ -28,3 +28,6 @@ LoginKw1
     
 MySecondTest
     Log    I am inside
+    
+MyThirdTest
+    Log    I am inside 3rd time
